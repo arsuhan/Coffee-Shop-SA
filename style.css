@@ -448,18 +448,18 @@ header.shadow {
 
 }
 
-@media (max-width: 360px) {
+@media (max-width: 520px) {
     header {
         padding: 11px 4%;
     }
     .logo img {
         width: 45px;
     }
-    .home {
+    /* .home {
         min-height: 10vh;
-    }
+    } */
     .home-text {
-        padding-top: 15px;
+        padding-top: 40px;
     }
     .home-text h1 {
         font-size: 1.4rem;
